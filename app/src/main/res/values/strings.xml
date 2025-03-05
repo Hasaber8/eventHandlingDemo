@@ -1,3 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">EventHandling2</string>
+    <string name="hello_message">Hello!</string>
+    <string name="bingo_message">Bingo!!!</string>
+    <string name="hello_text">Hello World!</string>
+    <string name="bingo_button_text">Bingo</string>
 </resources>
